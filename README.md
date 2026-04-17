@@ -9,9 +9,9 @@ A comprehensive collection of Machine Learning and Data Science projects complet
 ## 👨‍💻 Author
 
 **Shravan Bhaskara**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Sravanthi Bhaskara](https://www.linkedin.com/in/sravanthi-b-7481b18b/)
 - Kaggle: [Your Kaggle Profile](https://www.kaggle.com/your-username)
-- Website: [shraverse.com](https://your-website.com)
+- Website: [shraverse.com](https://shraverse.com)
 - Email: sbhaskara@mulesoft.com
 
 ## 📚 Program Overview
@@ -160,7 +160,7 @@ Jupyter Notebook / JupyterLab
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pgp-aiml-portfolio.git
+git clone https://github.com/ShravanthiB/pgp-aiml-portfolio.git
 cd pgp-aiml-portfolio
 ```
 
@@ -235,8 +235,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to reach out for collaborations, discussions, or opportunities!
 
 - **Email**: sbhaskara@mulesoft.com
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **LinkedIn**: [Sravanthi Bhaskara](https://www.linkedin.com/in/sravanthi-b-7481b18b/)
+- **GitHub**: [@ShravanthiB](https://github.com/ShravanthiB)
 
 ---
 

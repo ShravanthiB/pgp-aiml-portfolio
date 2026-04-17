@@ -328,10 +328,10 @@ This project was completed as part of the PGP in AI & Machine Learning from Grea
 
 ## 👤 Author
 
-**Shravan Bhaskara**
+**Sravanthi Bhaskara**
 - Email: sbhaskara@mulesoft.com
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Sravanthi Bhaskara](https://www.linkedin.com/in/sravanthi-b-7481b18b/)
+- GitHub: [@ShravanthiB](https://github.com/ShravanthiB)
 
 ---
 
